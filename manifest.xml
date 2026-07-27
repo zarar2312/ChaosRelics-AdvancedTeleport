@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+  <Name value="ChaosRelicsAdvancedTeleport" />
+  <DisplayName value="Chaos Relics  -  Advanced Teleport" />
+  <Description value="Dedicated server teleport system with delay, cooldown, safety checks, permissions, localization and optional Discord logging." />
+  <Author value="Chaos Relics" />
+  <Version value="1.0.1" />
+</xml>

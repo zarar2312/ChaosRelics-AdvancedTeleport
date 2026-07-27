@@ -1,0 +1,23 @@
+{
+  "TeleportDelay": 5,
+  "Cooldown": 30,
+  "Cost": 0,
+  "AllowPlayerTeleport": true,
+  "AllowTeleportDuringBloodMoon": false,
+  "CancelOnMovement": true,
+  "SafeTeleport": false,
+  "LogTeleports": true,
+  "Language": "en",
+  "DiscordWebhookUrl": "",
+  "SpawnHeightOffset": 1.25,
+  "MovementCancelDistance": 0.5,
+  "MaxTeleportNameLength": 32,
+  "CommandPermissions": {
+    "tp": true,
+    "tpset": true,
+    "tpdel": true,
+    "tplist": true,
+    "tpreload": false,
+    "tphelp": true
+  }
+}
