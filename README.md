@@ -2,7 +2,7 @@
 
 # Chaos Relics - Advanced Teleport
 
-Chaos Relics Advanced Teleport is a server-side teleport system with configurable delay, cooldown, safety checks, permission-based commands, localization support, and optional Discord logging. This mod requires launching the server with EAC disabled.
+Chaos Relics Advanced Teleport is a teleport system that can run on both client-side and server-side setups, with configurable delay, cooldown, safety checks, permission-based commands, localization support, and optional Discord logging. This mod requires launching with EAC disabled.
 
 ## Features
 
