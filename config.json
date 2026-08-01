@@ -4,7 +4,7 @@
   "Cost": 0,
   "AllowPlayerTeleport": true,
   "AllowTeleportDuringBloodMoon": false,
-  "CancelOnMovement": true,
+  "CancelOnMovement": false,
   "SafeTeleport": false,
   "LogTeleports": true,
   "Language": "en",

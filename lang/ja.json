@@ -24,6 +24,7 @@
   "usage_tp": "使用法: /tp <name>",
   "usage_tpset": "使用法: /tpset <name>",
   "usage_tpdel": "使用法: /tpdel <name>",
+  "help_header": "===== [ CHAOS RELICS | ADVANCED TELEPORT ] =====",
   "help_line_1": "/tp <name> - 保存した地点へTeleport",
   "help_line_2": "/tpset <name> - 現在位置を保存",
   "help_line_3": "/tpdel <name> - 保存地点を削除",

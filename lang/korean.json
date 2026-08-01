@@ -24,6 +24,7 @@
   "usage_tp": "사용법: /tp <name>",
   "usage_tpset": "사용법: /tpset <name>",
   "usage_tpdel": "사용법: /tpdel <name>",
+  "help_header": "===== [ CHAOS RELICS | ADVANCED TELEPORT ] =====",
   "help_line_1": "/tp <name> - 저장된 지점으로 텔레포트",
   "help_line_2": "/tpset <name> - 현재 위치 저장",
   "help_line_3": "/tpdel <name> - 저장된 지점 삭제",

@@ -24,6 +24,7 @@
   "usage_tp": "Utilisation : /tp <nom>",
   "usage_tpset": "Utilisation : /tpset <nom>",
   "usage_tpdel": "Utilisation : /tpdel <nom>",
+  "help_header": "===== [ CHAOS RELICS | ADVANCED TELEPORT ] =====",
   "help_line_1": "/tp <nom> - se teleporter vers un point enregistre",
   "help_line_2": "/tpset <nom> - enregistrer votre position actuelle",
   "help_line_3": "/tpdel <nom> - supprimer un point enregistre",

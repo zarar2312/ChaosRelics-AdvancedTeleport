@@ -24,6 +24,7 @@
   "usage_tp": "用法: /tp <name>",
   "usage_tpset": "用法: /tpset <name>",
   "usage_tpdel": "用法: /tpdel <name>",
+  "help_header": "===== [ CHAOS RELICS | ADVANCED TELEPORT ] =====",
   "help_line_1": "/tp <name> - 傳送到已儲存的地點",
   "help_line_2": "/tpset <name> - 儲存目前位置",
   "help_line_3": "/tpdel <name> - 刪除已儲存地點",

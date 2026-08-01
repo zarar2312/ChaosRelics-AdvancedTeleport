@@ -24,6 +24,7 @@
   "usage_tp": "Utilizzo: /tp <nome>",
   "usage_tpset": "Utilizzo: /tpset <nome>",
   "usage_tpdel": "Utilizzo: /tpdel <nome>",
+  "help_header": "===== [ CHAOS RELICS | ADVANCED TELEPORT ] =====",
   "help_line_1": "/tp <nome> - teletrasportati a un punto salvato",
   "help_line_2": "/tpset <nome> - salva la tua posizione attuale",
   "help_line_3": "/tpdel <nome> - elimina un punto salvato",

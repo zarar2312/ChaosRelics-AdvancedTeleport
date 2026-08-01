@@ -4,6 +4,6 @@
   <DisplayName value="Chaos Relics  -  Advanced Teleport" />
   <Description value="Dedicated server teleport system with delay, cooldown, safety checks, permissions, localization and optional Discord logging. Requires server launch with EAC disabled." />
   <Author value="Efraim K." />
-  <Version value="1.0.1" />
+  <Version value="1.0.2" />
   <Website value="https://github.com/zarar2312/ChaosRelics-AdvancedTeleport" />
 </xml>

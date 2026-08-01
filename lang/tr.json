@@ -24,6 +24,7 @@
   "usage_tp": "Kullanım: /tp <isim>",
   "usage_tpset": "Kullanım: /tpset <isim>",
   "usage_tpdel": "Kullanım: /tpdel <isim>",
+  "help_header": "===== [ CHAOS RELICS | ADVANCED TELEPORT ] =====",
   "help_line_1": "/tp <isim> - kayıtlı bir noktaya ışınlan",
   "help_line_2": "/tpset <isim> - mevcut konumunu kaydet",
   "help_line_3": "/tpdel <isim> - kayıtlı bir noktayı sil",
